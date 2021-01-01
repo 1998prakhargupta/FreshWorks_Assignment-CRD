@@ -13,7 +13,7 @@ Perform following action to start:
 
 You can set property called time-to-live for a key and write into a json file and this property is an optional. If ttl(in seconds) is given then the key will not be accessed for further read or delete operations after that time duration reached .
 
-												OR
+								OR
 
 4. You can create JSON object using Postman:-
 It should be POST request in this way : Use postman and pass the key value pair in body.
